@@ -1,16 +1,20 @@
-### Hi there 👋
+![alt text](
 
-<!--
-**AlaiY95/AlaiY95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+##
 
-Here are some ideas to get you started:
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alaiy95.visitor-badge&left_color=red&right_color=green)
+![Profile views](https://gpvc.arturio.dev/alaiy95) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alai's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaiy95&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaiy95&count_private=true&show_icons=true&theme=dracula&langs_count=8&layout=compact)](https://github.com/alaiy95/github-readme-stats)
+
+
+## Connect with me
+
+
+<br>
+<br>
+
+
