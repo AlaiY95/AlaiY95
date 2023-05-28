@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Alai</h1>
-<h3 align="center"> I have many interests and hobbies that where I am a Data Engineer, reverse engineer, full-stack developer and wannabe security analyst.</h3>
+<h3 align="center"> I have many interests and hobbies where I am a Data Engineer, reverse engineer, full-stack developer and wannabe security analyst.</h3>
 
 - 🔭 I’m currently working on **Blockchain Technologies.** in my spare time.
 
